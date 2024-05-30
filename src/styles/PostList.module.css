@@ -1,0 +1,25 @@
+.postList {
+  background-color: #7D9FFF;
+  padding: 20px;
+  width: 1043px;
+  height: auto;
+}
+
+.postList h2 {
+  margin-top: 0;
+  text-align: center;
+}
+
+.loadMore {
+  margin-top: 10px;
+  width: 115.54px;
+  height: 40px;
+  text-align: center;
+  background-color: #3F5CC0CC;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 15px;
+  float: right;
+}
